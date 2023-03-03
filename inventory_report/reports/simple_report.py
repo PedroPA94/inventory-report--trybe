@@ -16,6 +16,7 @@ class SimpleReport(Report):
             f"Data de validade mais próxima: {nearest_exp_date}\n"
             f"Empresa com mais produtos: {highest_count_co}"
         )
+
     @classmethod
     def get_oldest_product_date(cls, products: list[Product]) -> str:
         dates = [
