@@ -8,7 +8,7 @@ This was my first project using Object Oriented Programming (OOP) with Python. A
 
 This project was developed while studying Computer Science [@betrybe](https://github.com/betrybe). I got approval on 100% of this project's requirements.
 
-The files I worked on are in the ```inventory_report/importer```, ```inventory_report/inventory``` (except _products.py_), ```inventory_report/reports``` (except colored_report.py) folders, and also the following files: `main.py`, `test_product.py`, `test_product_report.py` and `test_report_decorator.py`.
+The files I worked on are in the ```inventory_report/importer```, ```inventory_report/inventory``` (except _products.py_), ```inventory_report/reports``` (except _colored_report.py_) folders, and also the following files: `main.py`, `test_product.py`, `test_product_report.py` and `test_report_decorator.py`.
 
 ## Main languages and tools used
 
