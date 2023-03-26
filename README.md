@@ -2,7 +2,7 @@
 
 This project is an inventory report generator. It receives data from CSV, JSON, or XML files and generates a report on this data in Python using Object-Oriented Programming concepts. It outputs two versions of the report: a simple and a complete version. 
 
-I've also implemented some tests in this project using the pytest library.
+I've also implemented some tests in this project using the Pytest library.
 
 This was my first project using Object Oriented Programming (OOP) with Python. At the time, I was studying Desing Patterns and one of the objectives of this project was to practice the use of the Strategy and Iterator patterns. It was definetely a challenge to use both OOP and Design Patterns, but I enjoyed the journey! It was also challenging to work with files, especially XML, which is a type of data I'm not used with.
 
